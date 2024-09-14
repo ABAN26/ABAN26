@@ -1,4 +1,4 @@
-# Hi There 👋I'm 
+# Hi There 👋I'm Ainara: 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=420&lines=Developer+;Pythonist;Problem+solver)](https://git.io/typing-svg)
    
 - 🎯 Porfolio Webside: In progress
