@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/8de3c6f4-dca2-4b96-861d-7082cb1d48cf" alt="CoderW" width="420" height="330"> 
 
-Hi There, I'm Ainara Andreoli 👋
+#Hi There, I'm Ainara Andreoli 👋
 
    - 🎯 Porfolio Webside: In progress
      
@@ -8,7 +8,7 @@ Hi There, I'm Ainara Andreoli 👋
     
    -📬 How to reach me: ainaraandreoli@gmail.com
 
-💻 Things I love
+##💻 Things I love
 
    - Python <img src= "https://media.tenor.com/romAj7qNotkAAAAM/typing.gif"  width="30">
    - Backend Development ✍️
