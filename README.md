@@ -3,8 +3,10 @@
 Hi There, I'm Ainara Andreoli 👋
 
    - 🎯 Porfolio Webside: In progress
-    -⚡ Ask me about everything, i am happy to help
-    -📬 How to reach me: @aca va la cosa
+     
+   -⚡ Ask me about everything, i am happy to help
+    
+   -📬 How to reach me: @aca va la cosa
 
 💻 Things I love
 
