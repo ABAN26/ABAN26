@@ -10,10 +10,10 @@ Hi There, I'm Ainara Andreoli 👋
 
 💻 Things I love
 
-    - Python <img src= "https://media.tenor.com/romAj7qNotkAAAAM/typing.gif"  width="30">
-    - Backend Development ✍️
-    - Artificial Intelligence
-    - Machine Learning 🧐
+   - Python <img src= "https://media.tenor.com/romAj7qNotkAAAAM/typing.gif"  width="30">
+   - Backend Development ✍️
+   - Artificial Intelligence
+   - Machine Learning 🧐
 
 
 
