@@ -1,4 +1,4 @@
-<img align="right" src="(https://github.com/ABAN26/ABAN26/issues/2)" alt="image" width="420" height="330"> 
+<img align="right" src="https://github.com/ABAN26/ABAN26/issues/2" alt="image" width="420" height="330"> 
 
 Hi There, I'm Ainara Andreoli 👋
 
