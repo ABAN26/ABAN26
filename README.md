@@ -6,7 +6,7 @@ Hi There, I'm Ainara Andreoli 👋
      
    -⚡ Ask me about everything, i am happy to help
     
-   -📬 How to reach me: @aca va la cosa
+   -📬 How to reach me: ainaraandreoli@gmail.com
 
 💻 Things I love
 
@@ -17,12 +17,5 @@ Hi There, I'm Ainara Andreoli 👋
 
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  vectorice distance of images in topology  
+- 🌱 I’m currently learning OpenCV and numpy
