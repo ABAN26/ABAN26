@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/8de3c6f4-dca2-4b96-861d-7082cb1d48cf" alt="CoderW" width="420" height="330"> 
+<img align="right" src="https://github.com/user-attachments/assets/8de3c6f4-dca2-4b96-861d-7082cb1d48cf" alt="imageW" width="420" height="330"> 
 
 Hi There, I'm Ainara Andreoli 👋
 
