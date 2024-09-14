@@ -2,16 +2,16 @@
 
 Hi There, I'm Ainara Andreoli 👋
 
-    🎯 Porfolio Webside: In progress
-    ⚡ Ask me about everything, i am happy to help
-    📬 How to reach me: @aca va la cosa
+   - 🎯 Porfolio Webside: In progress
+    -⚡ Ask me about everything, i am happy to help
+    -📬 How to reach me: @aca va la cosa
 
 💻 Things I love
 
-    Python
-    Backend Development ✍️
-    Artificial Intelligence
-    Machine Learning 🧐
+    - Python <img src= "https://media.tenor.com/romAj7qNotkAAAAM/typing.gif"  width="30">
+    - Backend Development ✍️
+    - Artificial Intelligence
+    - Machine Learning 🧐
 
 
 
